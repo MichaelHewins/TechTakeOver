@@ -1,0 +1,10 @@
+.navbar-logo {
+  display: inline-flex;
+  align-items: center;
+}
+.navbar-logo>img {
+  height: 50px;
+  padding: 7px 14px;
+}
+
+.navbar-bottom{width:100%; float:left; background:#dbdbdb; height:150px;}
