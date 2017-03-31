@@ -37,6 +37,30 @@
 </nav>
   </div>
 </nav
+
+
+<nav class="navbar navbar-default navbar-bottom">
+        <div class="container">
+            <div class="row">
+                
+                    <div class="col-lg-1">
+                    <a href="https://www.facebook.com/techunemployment/"><img class="img-circle" src="img/fb1.png" alt="Facebook" width="40" height="40"></a>
+                  </div>
+
+                    <div class="col-lg-1">
+                    <a href="https://www.snapchat.com/l/en-gb/"><img class="img-circle" src="img/sn1.png" alt="Snapchat" width="40" height="40"></a> 
+                  </div>
+
+                  <div class="col-lg-1">
+                    <a href="https://www.instagram.com/techtakeoveruk/?hl=en"><img class="img-circle" src="img/insta1.png" alt="Instagram" width="40" height="40"></a> 
+                  </div>
+
+                   <div class="col-lg-1">
+                    <a href="https://www.instagram.com/techtakeoveruk/?hl=en"><img class="img-circle" src="img/twi.png" alt="Twitter" width="40" height="40"></a> 
+                  </div>
+            </div>
+        </div>
+   </nav>
  
 
 
